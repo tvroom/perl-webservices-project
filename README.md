@@ -12,7 +12,7 @@ We're just starting out, but if you see API documentation that doesn't include a
 How To Help
 --------------------------------------------------------------------------------
 * File issues in this project for API pages that you don't see a Perl implementation listed on their 
-* Follow us on twitter at: https://twitter.com/perlpwp 
+* We'll have a twitter account set up soon -- look for details on that, and then follow us
 * Help promote this initiative to your workplace, or Perl Mongers group
 
 Next Steps
